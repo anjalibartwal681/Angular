@@ -19,3 +19,7 @@ components communicate with each   other to build a complete website.
 These changes are automatically propagated to the associated TypeScript component using the ngModel directive.
 from typescript to html:  
 typecsript may update  associated data properties ,
+
+
+
+     
