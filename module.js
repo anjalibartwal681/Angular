@@ -27,6 +27,10 @@ In this example, MyModule is a module that declares a component, a directive, an
 By organizing your application into modules, you can achieve better maintainability, reusability, and separation of concerns.
 
 
+Yes, in Angular, components are typically declared within Angular modules.
+  When you create a new component using the Angular CLI or manually, you should include that component in an Angular module to make it available for use in other parts of your application.
+
+
 
 
 
