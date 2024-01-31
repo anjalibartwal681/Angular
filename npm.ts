@@ -1,0 +1,1 @@
+npm, which stands for Node Package Manager, is the default package manager for JavaScript runtime environment Node.js. It is also commonly used for managing packages and dependencies in front-end development, including Angular projects. npm plays a crucial role in the development workflow, and its primary functions include:
